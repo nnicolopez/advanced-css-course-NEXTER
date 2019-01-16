@@ -249,8 +249,8 @@ body {
     grid-row: 1 / 2;
     grid-column: 2 / 3;
     fill: #c69963;
-    height: 2rem;
-    width: 2rem;
+    height: 2.5rem;
+    width: 2.5rem;
     z-index: 2;
     justify-self: end;
     margin: 1rem; }
